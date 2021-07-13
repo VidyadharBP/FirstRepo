@@ -1,1 +1,3 @@
-# FirstRepo
+Message
+hi
+Have a good day
